@@ -1,0 +1,5 @@
+altezza = int(input ("il rettangolo è alto: "))
+base = float(input ("la base del rettangolo è pari a: "))
+nome_rettangolo = input ("il nome del rettangolo è: ")
+print(nome_rettangolo)
+print(base * altezza)
